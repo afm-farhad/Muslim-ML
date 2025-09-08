@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+answers_free_partial.csv
+answers_free.csv
